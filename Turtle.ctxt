@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ checkKeys()
+comment1.text=\n\ *Check\ whether\ the\ control\ keys\ are\ being\ pressed,\ and\ turn\ if\ they\ are.\n
+comment2.params=
+comment2.target=void\ randomTurn()
+comment3.params=
+comment3.target=void\ turnEdge()
+comment3.text=\n\ this\ will\ turn\ it\n
+comment4.params=
+comment4.target=void\ seeAndEat()
+numComments=5
