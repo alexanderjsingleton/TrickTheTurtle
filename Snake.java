@@ -3,8 +3,8 @@ import greenfoot.*;
 /**
  * Write a description of class Snake here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @alexanderjsingleton
+ * @version 2.0
  */
 public class Snake extends Animal
 {
